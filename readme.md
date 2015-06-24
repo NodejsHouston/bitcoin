@@ -1,10 +1,10 @@
 #WalletAPI
-- CreateAccount
+- CreateAccount - Ilmo - passport.js / express
 - Delete Account
-- LoadMoney
+- LoadMoney - Ben - find the best API for loading money from an exchange
 - SendMoney
-- SpendMoney
-- AccountHistory
+- SpendMoney - Jimmy - blockcypher has great multi sig api
+- AccountHistory - Austin - Mongo and Mongoose
 - WalletHistory
   - ValidPOS
   - Transactions
